@@ -4,7 +4,7 @@
 
     <groupId>olivera.springframework</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -41,6 +41,7 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <configuration>
                     <goals>install</goals>
+                    <autoVersionSubmodules>true</autoVersionSubmodules>
                     <checkModificationExcludes>
                         <checkModificationExclude>pom.xml</checkModificationExclude>
                     </checkModificationExcludes>
@@ -79,7 +80,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/OKostadinoska/sfg-pet-clinic.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>sfg-pet-clinic-0.0.2</tag>
   </scm>
 
 </project>

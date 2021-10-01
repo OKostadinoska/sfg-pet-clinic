@@ -1,0 +1,14 @@
+olivera/springframework/sfgpetclinic/model/Person.class
+olivera/springframework/sfgpetclinic/model/PetType.class
+olivera/springframework/sfgpetclinic/model/Vet.class
+olivera/springframework/sfgpetclinic/model/BaseEntity.class
+olivera/springframework/sfgpetclinic/model/Pet.class
+olivera/springframework/sfgpetclinic/services/PetService.class
+olivera/springframework/sfgpetclinic/services/VetService.class
+olivera/springframework/sfgpetclinic/services/map/PetServiceMap.class
+olivera/springframework/sfgpetclinic/services/map/OwnerServiceMap.class
+olivera/springframework/sfgpetclinic/services/CrudService.class
+olivera/springframework/sfgpetclinic/services/OwnerService.class
+olivera/springframework/sfgpetclinic/model/Owner.class
+olivera/springframework/sfgpetclinic/services/map/VetServiceMap.class
+olivera/springframework/sfgpetclinic/services/map/AbstractMapService.class

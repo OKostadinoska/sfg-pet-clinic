@@ -47,6 +47,4 @@ public class PetTypeSDJpaService implements PetTypeService {
     }
 
 
-
-
 }

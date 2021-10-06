@@ -2,9 +2,11 @@ package olivera.springframework.sfgpetclinic.services.map;
 
 import olivera.springframework.sfgpetclinic.model.Visit;
 import olivera.springframework.sfgpetclinic.services.VisitService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class VisitMapService extends AbstractMapService<Visit, Long> implements VisitService {
 
     @Override
